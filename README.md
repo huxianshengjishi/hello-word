@@ -18,11 +18,4 @@
 	  echo $h;
 	  $h++;
   }
-  test1();
-  test1();
-  test1();
-  test1();
-  
-  
-  print "nihao";
 ?>			
